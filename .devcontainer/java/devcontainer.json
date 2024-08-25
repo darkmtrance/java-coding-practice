@@ -21,7 +21,9 @@
 			"settings": {},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
-        		"vscjava.vscode-java-pack"
+				"gabrielbb.vscode-lombok",
+        		"vscjava.vscode-java-pack",
+				"pivotal.vscode-boot-dev-pack"
 			]
 		}
 	}
