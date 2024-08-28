@@ -1,4 +1,6 @@
 # Java Coding Practice
+
+![Refactor](images/refactor.jpeg)
  
 Este proyecto contiene ejemplos y prácticas de codificación en Java, incluyendo el uso de inferencia de tipos introducida en Java 10.
  
